@@ -1,7 +1,7 @@
 # SnakeInPython
 Game of Snake written in python 3.X using classes
 
-Hello welcome to snake coded in python. This was a project course that I followed along with from the youtuber BROCODE. I ended up learning a lot from this tutorial I really like how he implemented the snake as well as the food/apple as classes then used tk to draw them on the canvas. Also the use of constants throughout the code was a really cool idea, it really helped keep everything consistent throughout the project it also gives the user a way to adjust settings and debug the code. Also the use of lambdas with binding keys so you can use the change direction function that was cool.
+Hello welcome to snake coded in python. This was a project course that I followed along with from the youtuber BROCODE. I ended up learning a lot from this tutorial I really like how he implemented the snake as well as the food/apple as classes then used tk to draw them on the canvas. Also the use of constants throughout the code was a really cool idea, it really helped keep everything consistent throughout the project it also gives the user a way to adjust settings and debug the code. Also the use of lambdas with binding keys so you can use the change direction function was also a cool idea.
 
 brocodes youtube channel: https://www.youtube.com/c/BroCodez
 
